@@ -2,6 +2,7 @@
 
 为了抢某些老师的毕设题目，故编写了一个Python的脚本用来监控知网毕设系统上的数据，根据在毕设系统页面抓包分析，看到了在选题界面会向这个URL发送POST请求：
 > https://co2.cnki.net/Handler/Project.ashx?action=GetStuChoiceProjectsList
+
 故将页面Cookie与请求体结合到Python中，并利用企业微信的应用功能对某个老师或题目上线状态进行轮询，并实现微信提示。
 
 代码中提示 **#自行添加** 的部分，请自行修改。
