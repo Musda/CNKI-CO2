@@ -82,4 +82,4 @@ while True:
 ```
 
 ## 实现效果图：
-![IMG_BDE51ED51AD9-1.jpeg](file:///Users/horace/Downloads/IMG_BDE51ED51AD9-1.jpeg)
+![IMG_BDE51ED51AD9-1.jpeg](/IMG_BDE51ED51AD9-1.jpeg)
